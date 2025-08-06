@@ -1,5 +1,4 @@
-## Hi there 👋
-
+(https://readme-typing-svg.demolab.com/demo/?size=30&duration=3000&pause=1500&color=B85AF7&lines=Hello+There!+%F0%9F%92%96)
 <!--
 **Hana-Shamel/Hana-Shamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
