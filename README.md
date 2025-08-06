@@ -1,6 +1,6 @@
 <!-- ![Image](https://github.com/user-attachments/assets/a3ffe59f-35d9-4456-a68a-bb76f8b54f26) -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1500&color=B85AF7&width=570&lines=Hello+There!+%F0%9F%92%96+I'm+Hana+Shamel)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1500&color=B85AF7&width=570&lines=Hello+There!+%E2%9C%A8+I'm+Hana+Shamel)](https://git.io/typing-svg)
 
 <h3 align="center">I'm a Computer Engineering undergraduate passionate about AI and Computer Vision</h3>
 
