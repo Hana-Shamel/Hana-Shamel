@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1500&color=B85AF7&width=570&lines=Hello+There!+%F0%9F%92%96+I'm+Hana+Shamel)](https://git.io/typing-svg)
 
-<h3 align="center">I'm a computer engineering student passionate about AI and computer vision</h3>
+<h3 align="center">I'm a Computer Engineering undergraduate passionate about AI and Computer Vision</h3>
 
   <a href="https://www.linkedin.com/in/hana-shamel-b37a76261/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
