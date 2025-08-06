@@ -1,3 +1,5 @@
+![Image](https://github.com/user-attachments/assets/a3ffe59f-35d9-4456-a68a-bb76f8b54f26)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1500&color=B85AF7&width=570&lines=Hello+There!+%F0%9F%92%96+I'm+Hana+Shamel)](https://git.io/typing-svg)
 <!--
 **Hana-Shamel/Hana-Shamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
