@@ -4,6 +4,7 @@
 
 <h3 align="center">I'm a computer engineering student passionate about AI and computer vision</h3>
 [🔗 LinkedIn](https://www.linkedin.com/in/hana-shamel-b37a76261/)
+
 ---
 
 🔭 I’m currently working on ASL hand tracking project
