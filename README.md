@@ -10,9 +10,9 @@
 
 ---
 
-🔭 I’m currently working on ASL hand tracking project
+🔭 I’m currently working on object tracking project
 
-🌱 I’m currently learning about generative AI
+🌱 I’m currently learning about pytorch framework
 
 📫 How to reach me: hana.s.lotfy@gmail.com
 
