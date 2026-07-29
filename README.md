@@ -12,7 +12,7 @@
 
 🔭 I’m currently working on object tracking project
 
-🌱 I’m currently learning about pytorch framework
+🌱 I’m currently learning Agentic AI 
 
 📫 How to reach me: hana.s.lotfy@gmail.com
 
@@ -23,19 +23,25 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Notepad.png" width="25px"/> Languages
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,cpp,java,js" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,java,js,go,html,css" />
 </div>
 <br/>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25px"/> Frameworks & Libraries
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=django,flask,opencv,pkl" />
+    <img src="https://skillicons.dev/icons?i=django,flask,opencv,sklearn,pandas" />
+</div>
+<br/>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="25px"/> Databases & Search
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,elasticsearch" />
 </div>
 <br/>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="25px"/> Tools & Platforms
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,vscode,visualstudio,pycharm,html,css" />
+    <img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio,pycharm,docker,postman,powershell,grafana,prometheus,arduino" />
 </div>
 
 <!--
