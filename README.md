@@ -21,25 +21,25 @@
 <h2 align="center">✨ Tech Stack ✨</h2>
 <br/>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Notepad.png" width="25px"/> Languages
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Notepad.png" width="25px"/> Languages</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=py,cpp,java,js,go,html,css" />
 </div>
 <br/>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25px"/> Frameworks & Libraries
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25px"/> Frameworks & Libraries</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=django,flask,opencv,sklearn,pandas" />
 </div>
 <br/>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="25px"/> Databases & Search
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="25px"/> Databases & Search</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,elasticsearch" />
 </div>
 <br/>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="25px"/> Tools & Platforms
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="25px"/> Tools & Platforms</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio,pycharm,docker,postman,powershell,grafana,prometheus,arduino" />
 </div>
