@@ -10,9 +10,9 @@
 
 ---
 
-🔭 I’m currently working on object tracking project
+🔭 I’m currently working on "Business Intelligence Decisions Agent"
 
-🌱 I’m currently learning Agentic AI 
+🌱 I’m currently learning "Agentic AI"
 
 📫 How to reach me: hana.s.lotfy@gmail.com
 
